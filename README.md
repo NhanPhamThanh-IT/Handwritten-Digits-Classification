@@ -1,16 +1,16 @@
-<center>
+# <div align="center">✏️ Handwritten-Digits-Classification ✏️</div>
 
-# ✏️ Handwritten-Digits-Classification
+<div align="center">
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) ![Python](https://img.shields.io/badge/python-3.8%2B-blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange) ![Gradio](https://img.shields.io/badge/Gradio-UI-green) ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
-</center>
+_An AI-driven web app for handwritten digit recognition using the MNIST dataset. It leverages TensorFlow for deep learning model training and Gradio to create an intuitive, interactive UI. Users can draw digits and receive instant predictions, showcasing practical AI deployment and real-time inference capabilities._
 
-<div align="justify">
-
-✏️ An AI-driven web app for handwritten digit recognition using the MNIST dataset. It leverages TensorFlow for deep learning model training and Gradio to create an intuitive, interactive UI. Users can draw digits and receive instant predictions, showcasing practical AI deployment and real-time inference capabilities.
+</div>
 
 ---
+
+<div align="justify">
 
 ## Table of Contents
 
@@ -163,7 +163,7 @@ The project is ideal for learning about computer vision, neural networks, and de
 
 > **Live Demo:** _Coming soon!_
 
-![Gradio Demo Screenshot](docs/gradio.md) <!-- Replace with actual screenshot if available -->
+![Gradio Demo Screenshot](assets/screenshot.jpg) <!-- Replace with actual screenshot if available -->
 
 ---
 
