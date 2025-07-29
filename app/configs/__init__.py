@@ -1,3 +1,3 @@
-from .system-variables import SystemVariables
+from .SystemVariables import SystemVariables
 
 __all__ = ['SystemVariables']
